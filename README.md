@@ -24,7 +24,7 @@ I'm currently a graduating student seeking employment for web development while 
 </p>
 
 <h1>Personal website</h1>
-<a href="https://4lexmendezportfolio.vercel.app/">A</a>
+<a href="https://4lexmendezportfolio.vercel.app/">4LEXMENDEZ</a>
 
 
 ### Socials
