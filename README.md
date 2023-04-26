@@ -4,7 +4,7 @@ Hi 👋 My name is Alex
 Web Developer
 -------------
 
-I'm currently a graduating student seeking employment for web development while also attempting to get my license in real estate.
+Invest in me and allow me to be your asset. How can we do that?
 
 * ✉️  You can contact me at [alexjandrom99@gmail.com](mailto:alexjandrom99@gmail.com)
 
