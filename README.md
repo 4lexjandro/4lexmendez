@@ -25,7 +25,7 @@ I'm passionate for creating websites, fascinated by astronomy, and determined to
 </p>
 
 <h1>Personal website</h1>
-<a href="https://4lexmendezportfolio.vercel.app/">4LEXMENDEZ</a>
+<a href="https://www.4lexmendez.com/">4LEXMENDEZ</a>
 
 
 ### Connect With Me
