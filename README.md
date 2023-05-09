@@ -1,11 +1,11 @@
-Hey, I'm Alex
+Hey! I'm Alex
 =====================
 ![85031638-7F41-4D6D-AEC5-699C46A43140_AK325401000_4bb962fe64dcfeb8b268722cf9ff40a2_person_waving](https://user-images.githubusercontent.com/60402663/236967706-bdd5f54d-8225-4162-b15e-5a1b9a556d3a.png)
 
 Web Developer
 -------------
 
-I'm passionate for creating websites, fascinated by astronomy, and addicted to reaching financial independence.
+I'm passionate for creating websites, fascinated by astronomy, and determined to reaching financial independence.
 
 * ✉️  You can contact me at [alexjandrom99@gmail.com](mailto:alexjandrom99@gmail.com)
 
