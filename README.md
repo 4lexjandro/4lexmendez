@@ -8,7 +8,7 @@ Invest in me and allow me to be your asset. How can we do that?
 
 * ✉️  You can contact me at [alexjandrom99@gmail.com](mailto:alexjandrom99@gmail.com)
 
-### Skills
+### Languages & Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -27,6 +27,6 @@ Invest in me and allow me to be your asset. How can we do that?
 <a href="https://4lexmendezportfolio.vercel.app/">4LEXMENDEZ</a>
 
 
-### Socials
+### Connect With Me
 
 <p align="left"> <a href="https://www.github.com/4lexmendez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/4lexmendez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexjandro-mendoza-17b28a19b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/4lexmendez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
